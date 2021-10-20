@@ -1,5 +1,6 @@
 {
   "name": "5x5tictactoe",
+  "homepage":"https://tplocgit.github.io/React-Tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
